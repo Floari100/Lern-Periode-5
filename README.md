@@ -12,3 +12,7 @@ Heute habe ich 3 Videos zu einem Webscraper angeschaut und wie er funktioniert u
 [ ] Auftrag 22
 [ ] Auftrag 23
 [ ] Auftrag 24
+
+heute habe ich die Aufträge gelöst und fertig gestellt.
+
+[ ] Portfolio erste hälfte 
