@@ -13,6 +13,8 @@ Heute habe ich 3 Videos zu einem Webscraper angeschaut und wie er funktioniert u
 [ ] Auftrag 23
 [ ] Auftrag 24
 
-heute habe ich die Aufträge gelöst und fertig gestellt.
+Heute habe ich die Aufträge gelöst und fertig gestellt. Ich habe einem Freund die select commands erklärt in SQL und ihm beim Auftrag 13, welche ich letzte Woche gemacht habe, geholfen.
 
-[ ] Portfolio erste hälfte 
+[ ] Portfolio erste Hälfte 
+[ ] Portfolio zweite Hälfte
+[ ] Tutorial für den Wiedereinstieg in das Web programmieren
