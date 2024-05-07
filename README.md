@@ -18,3 +18,10 @@ Heute habe ich die Aufträge gelöst und fertig gestellt. Ich habe einem Freund 
 [ ] Portfolio erste Hälfte 
 [ ] Portfolio zweite Hälfte
 [ ] Tutorial für den Wiedereinstieg in das Web programmieren
+
+Heute konnte ich Leider nicht viel am Portfolio arbeiten, da ich noch Aufträge zu erledigen hatte, welche ich eigentlich zuhause machen wollte, die ich leider aber nicht geschafft habe. Ich habe von der ersten Stunde bis zur dritten Stunde 3 Aufträge gemacht und den Moodle Test 25. In der letzten Stunde konnte ich noch ein bischen am Journal arbeiten. Ich habe jedoch nicht ganz die erste Hälfte fertig geschafft.
+
+[ ] Tutorial für HTML 45 min
+[ ] Tutorial für Wiedereinstieg in das Web programmieren 60 min
+[ ] Get cancelled Tycoon Ufo erreichen 60 min
+[ ] Scraper tutorial anschauen und erste Website anfangen 60 min
